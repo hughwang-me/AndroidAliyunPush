@@ -8,3 +8,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+uwjx_push.jks
+uwjx-push.txt
+upload_certificate.pem
